@@ -20,8 +20,6 @@
   - The Chinese Embassy and Consulates randomly check the authenticity of applicants' invitation letters by contacting the inviting party in China. When that happens, your application will be delayed, or denied if the letter is not authentic.
   - Here is a [Sample Business Invitation Letter](http://www.mychinavisa.com/LiteratureRetrieve.aspx?ID=193471) for your reference.
 ## 3. Determine the processing time & shipping.
-  - Processing Time & Cost. *Note: These costs are for US passports. For non-US passport and rates details, please [click here](http://www.mychinavisa.com/visa-rates).*
-
 |Type|Consular Fee|Service Fee|Total Fee|FedEx Fee (if req.)|Processing Time**|  
 |:----|:----|:----|:----|:----|:----|
 |Regular|$140|$99|$239|$29|6+ business days|
