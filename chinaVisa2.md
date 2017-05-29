@@ -20,7 +20,7 @@
   - The Chinese Embassy and Consulates randomly check the authenticity of applicants' invitation letters by contacting the inviting party in China. When that happens, your application will be delayed, or denied if the letter is not authentic.
   - Here is a [Sample Business Invitation Letter](http://www.mychinavisa.com/LiteratureRetrieve.aspx?ID=193471) for your reference.
 ## 3. Determine order type and shipping.
-  - **Order Type:** Choose which type you will require. It is best to put in the application order 3 weeks prior to your trip.
+  - **Order Type:** Choose which type you will require based on the table below. It is best to put in the application order 3 weeks prior to your trip.
     - *Same day processing is not available for work visa & non-US passports.
     - **Processing Time is only for the consultate.
   - **Shipping Type:** There are two shipping options: 
@@ -36,15 +36,15 @@
 
 |Order Type|Consular Fee|Service Fee|FedEx Fee (if req.)|Total Fee|Processing Time**|  
 |:----|:----|:----|:----|:----|:----|
-|Regular|$140|$99|$29|$239 + $29|6+ business days|
-|Express|$140|$149|$29|$289 + $29|4-6 business days|
-|Rush|$160|$199|$29|$359 + $29|3 business days|
-|Emergency|$170|$259|$29|$429 + $29|24 hours|
-|Same-Day*|$170|$600|$29|$770 + $29|6 hours|
+|Regular|$140|$99|$29 each way|$239 + $58|6+ business days|
+|Express|$140|$149|$29 each way|$289 + $58|4-6 business days|
+|Rush|$160|$199|$29 each way|$359 + $29 + $58|3 business days|
+|Emergency|$170|$259|$29 each way|$429 + $58|24 hours|
+|Same-Day*|$170|$600|$29 each way|$770 + $58|6 hours|
 ## 4. Fill out the order form.
   - [Click here](https://order.mychinavisa.com/OrderVisa3.php) to apply online for your China tourist visa and follow the steps to fill out the China Visa Service Center order form. You will receive payment and mailing instructions when completing the form. After submitting your order, the system will indicate where to mail your materials.
-    - **Processing Time:** Choose selection based on step 3
-    - **Options for Shipping to CVSC:** Choose 
+    - **Processing Time:** Choose selection based on step 3.
+    - **Options for Shipping to CVSC:** Choose selection based on step 3.
 ## Links:
   - [China Visa Application Form](http://www.mychinavisa.com/LiteratureRetrieve.aspx?ID=161424)
   - [Sample Pre-Filled China Visa Application Form](http://www.mychinavisa.com/LiteratureRetrieve.aspx?ID=171918)
