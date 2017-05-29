@@ -25,15 +25,14 @@
     - **Processing Time is only for the consultate.
   - **Shipping Type:** There are two shipping options: 
     - Ship with CVSC shipping label
-      - For easy, fast and reliable shipping, CVSC recommends that you use the enclosed FedEx shipping label to send your documents to their office. Go to a FedEx office near you and place your documents in a FedEx envelope, on to which you affix the enclosed shipping label. Your application will be sent to us by FedEx Overnight and can be easily tracked. The shipping cost is $29, or $38 if you are shipping from HI, AK or PR.
+    For easy, fast and reliable shipping, CVSC recommends that you use the enclosed FedEx shipping label to send your documents to their office. Go to a FedEx office near you and place your documents in a FedEx envelope, on to which you affix the enclosed shipping label. Your application will be sent to us by FedEx Overnight and can be easily tracked. The shipping cost is $29, or $38 if you are shipping from HI, AK or PR.
     - Drop-off in person
-
-      China Visa Service Center - SF Office
-      1610 Post Street, Suite 303
-      San Francisco, CA 94115
-      Phone: (415) 292-5188
-      Fax: (415) 292-5190
-      Walk-in hours: 9:00am to 5:00pm PST
+      - China Visa Service Center - SF Office
+      - 1610 Post Street, Suite 303
+      - San Francisco, CA 94115
+      - Phone: (415) 292-5188
+      - Fax: (415) 292-5190
+      - Walk-in hours: 9:00am to 5:00pm PST
 
 |Order Type|Consular Fee|Service Fee|FedEx Fee (if req.)|Total Fee|Processing Time**|  
 |:----|:----|:----|:----|:----|:----|
