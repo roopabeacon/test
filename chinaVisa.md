@@ -1,7 +1,7 @@
 # China Visa Application
 
 ## Process:
-1. **Gather all the forms listed below.**
+1. **Gather all the items listed below.**
     - **Your passport**
       - You must send your actual passport, which must have at least 8 months of validity remaining and at least two blank visa pages. 
       - Note: The last three pages on the US passport are amendment and endorsement pages. They cannot be used for visa stamp. If your passport doesn't meet the requirement, click here to see our passport services.
@@ -20,7 +20,9 @@
     - Invitation letter can be submitted as a photocopy. However, original invitation and/or personal interview may be requested at visa officer's discretion.
     - The Chinese Embassy and Consulates randomly check the authenticity of applicants' invitation letters by contacting the inviting party in China. When that happens, your application will be delayed, or denied if the letter is not authentic.
     - Here is a [Sample Business Invitation Letter](http://www.mychinavisa.com/LiteratureRetrieve.aspx?ID=193471) for your reference.
-3. **Fill out the order form**
+3. **Determine the processing time & shipping.**
+    - [Click here](https://order.mychinavisa.com/OrderVisa3.php) to apply online for your China tourist visa and follow the steps to fill out the China Visa Service Center order form. You will receive payment and mailing instructions when completing the form. After submitting your order, the system will indicate where to mail your materials.
+4. **Fill out the order form**
     - [Click here](https://order.mychinavisa.com/OrderVisa3.php) to apply online for your China tourist visa and follow the steps to fill out the China Visa Service Center order form. You will receive payment and mailing instructions when completing the form. After submitting your order, the system will indicate where to mail your materials.
 
 
@@ -37,4 +39,4 @@
 |Same-Day*|$170|$600|$770|$29|6 hours|
 
 *Same day processing is not available for work visa & non US passports. 
-** Processing Time is only for the consultate.
+**Processing Time is only for the consultate.
