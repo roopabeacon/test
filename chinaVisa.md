@@ -38,5 +38,5 @@
 |Emergency|$170|$259|$429|$29|24 hours|
 |Same-Day*|$170|$600|$770|$29|6 hours|
 
-*Same day processing is not available for work visa & non US passports. 
-**Processing Time is only for the consultate.
+  *Same day processing is not available for work visa & non US passports. 
+  **Processing Time is only for the consultate.
