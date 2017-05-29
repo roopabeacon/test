@@ -19,8 +19,10 @@
   - Invitation letter can be submitted as a photocopy. However, original invitation and/or personal interview may be requested at visa officer's discretion.
   - The Chinese Embassy and Consulates randomly check the authenticity of applicants' invitation letters by contacting the inviting party in China. When that happens, your application will be delayed, or denied if the letter is not authentic.
   - Here is a [Sample Business Invitation Letter](http://www.mychinavisa.com/LiteratureRetrieve.aspx?ID=193471) for your reference.
-## 3. Determine the processing time & shipping.
-|Type|Consular Fee|Service Fee|Total Fee|FedEx Fee (if req.)|Processing Time**|  
+## 3. Determine order type and shipping.
+  - Order Type: choose which type you will require. It is best to put in the application order 3 weeks prior to your trip.
+
+|Order Type|Consular Fee|Service Fee|Total Fee|FedEx Fee (if req.)|Processing Time**|  
 |:----|:----|:----|:----|:----|:----|
 |Regular|$140|$99|$239|$29|6+ business days|
 |Express|$140|$149|$289|$29|4-6 business days|
@@ -28,6 +30,6 @@
 |Emergency|$170|$259|$429|$29|24 hours|
 |Same-Day*|$170|$600|$770|$29|6 hours|
 - *Same day processing is not available for work visa & non US passports. 
-**Processing Time is only for the consultate.
+- **Processing Time is only for the consultate.
 ## 4. Fill out the order form.
   - [Click here](https://order.mychinavisa.com/OrderVisa3.php) to apply online for your China tourist visa and follow the steps to fill out the China Visa Service Center order form. You will receive payment and mailing instructions when completing the form. After submitting your order, the system will indicate where to mail your materials.
