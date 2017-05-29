@@ -1,19 +1,19 @@
 # China Visa Application
 
 ## 1. Gather all the items listed below.
-    - **Your passport**
-      - You must send your actual passport, which must have at least 8 months of validity remaining and at least two blank visa pages. 
-      - Note: The last three pages on the US passport are amendment and endorsement pages. They cannot be used for visa stamp. If your passport doesn't meet the requirement, click here to see our passport services.
-      - If you are ethnically Chinese, a minor, or a non-US citizen, you must also meet these [Special Requirements](http://www.mychinavisa.com/special-requirements).
-    - **Photocopy of passport**
-      - You must provide a CLEAR copy of the information page of your passport in addition to your original passport. 
-    - **China visa application form**
-      - [Click here to download application form](http://www.mychinavisa.com/LiteratureRetrieve.aspx?ID=161424), which must be completely filled, signed and dated. One form per applicant. Do not leave any areas blank but instead write "N/A" if you don't have answer to a question, or if the question does not apply to you.
-      - For help completing your application form, please view the [Sample Pre-filled application](http://www.mychinavisa.com/LiteratureRetrieve.aspx?ID=171918).
-      - **Important Reminder:** Hand-written application forms ARE NOT accepted by Chinese Embassy/Consulates. You must TYPE your answers in the fillable pdf form.
-    - **Photograph**
-      - Attention applicant: the Chinese embassy has issued strict requirements for passport photos. Your application will not be accepted if these requirements are not met. 
-      - Two passport type photos, with a white background, taken by a professional passport photo service, such as Walgreen, CVS or Kinko's etc. [You can print out the requirements](http://www.mychinavisa.com/LiteratureRetrieve.aspx?ID=196509) and bring it to photographer for reference.
+  - **Your passport**
+    - You must send your actual passport, which must have at least 8 months of validity remaining and at least two blank visa pages. 
+    - Note: The last three pages on the US passport are amendment and endorsement pages. They cannot be used for visa stamp. If your passport doesn't meet the requirement, click here to see our passport services.
+    - If you are ethnically Chinese, a minor, or a non-US citizen, you must also meet these [Special Requirements](http://www.mychinavisa.com/special-requirements).
+  - **Photocopy of passport**
+    - You must provide a CLEAR copy of the information page of your passport in addition to your original passport. 
+  - **China visa application form**
+    - [Click here to download application form](http://www.mychinavisa.com/LiteratureRetrieve.aspx?ID=161424), which must be completely filled, signed and dated. One form per applicant. Do not leave any areas blank but instead write "N/A" if you don't have answer to a question, or if the question does not apply to you.
+    - For help completing your application form, please view the [Sample Pre-filled application](http://www.mychinavisa.com/LiteratureRetrieve.aspx?ID=171918).
+    - **Important Reminder:** Hand-written application forms ARE NOT accepted by Chinese Embassy/Consulates. You must TYPE your answers in the fillable pdf form.
+  - **Photograph**
+    - Attention applicant: the Chinese embassy has issued strict requirements for passport photos. Your application will not be accepted if these requirements are not met. 
+    - Two passport type photos, with a white background, taken by a professional passport photo service, such as Walgreen, CVS or Kinko's etc. [You can print out the requirements](http://www.mychinavisa.com/LiteratureRetrieve.aspx?ID=196509) and bring it to photographer for reference.
 
 ## 2. Request invitation letter from the Ops team.
     - Invitation letter can be submitted as a photocopy. However, original invitation and/or personal interview may be requested at visa officer's discretion.
