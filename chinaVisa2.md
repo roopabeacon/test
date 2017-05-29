@@ -24,9 +24,9 @@
     - *Same day processing is not available for work visa & non-US passports.
     - **Processing Time is only for the consultate.
   - **Shipping Type:** There are two shipping options: 
-    1. Ship with CVSC shipping label:
+    - Ship with CVSC shipping label:
       - For easy, fast and reliable shipping, CVSC recommends that you use the enclosed FedEx shipping label to send your documents to their office. Go to a FedEx office near you and place your documents in a FedEx envelope, on to which you affix the enclosed shipping label. Your application will be sent to us by FedEx Overnight and can be easily tracked. The shipping cost is $29 each way, or $38 each way if shipping from HI, AK or PR.
-    2. Drop-off in person:
+    - Drop-off in person:
       - Find your [local CVSC center](http://www.mychinavisa.com/contact).
 
 |Order Type|Consular Fee|Service Fee|FedEx Fee (if req.)|Total Fee|Processing Time**|  
