@@ -27,6 +27,7 @@
     - Ship with CVSC shipping label
       - For easy, fast and reliable shipping, CVSC recommends that you use the enclosed FedEx shipping label to send your documents to their office. Go to a FedEx office near you and place your documents in a FedEx envelope, on to which you affix the enclosed shipping label. Your application will be sent to us by FedEx Overnight and can be easily tracked. The shipping cost is $29, or $38 if you are shipping from HI, AK or PR.
     - Drop-off in person
+
       China Visa Service Center - SF Office
       1610 Post Street, Suite 303
       San Francisco, CA 94115
@@ -34,13 +35,13 @@
       Fax: (415) 292-5190
       Walk-in hours: 9:00am to 5:00pm PST
 
-|Order Type|Consular Fee|Service Fee|Total Fee|FedEx Fee (if req.)|Processing Time**|  
+|Order Type|Consular Fee|Service Fee|FedEx Fee (if req.)|Total Fee|Processing Time**|  
 |:----|:----|:----|:----|:----|:----|
-|Regular|$140|$99|$239|$29|6+ business days|
-|Express|$140|$149|$289|$29|4-6 business days|
-|Rush|$160|$199|$359|$29|3 business days|
-|Emergency|$170|$259|$429|$29|24 hours|
-|Same-Day*|$170|$600|$770|$29|6 hours|
+|Regular|$140|$99|$29|$239 + $29|6+ business days|
+|Express|$140|$149|$29|$289 + $29|4-6 business days|
+|Rush|$160|$199|$29|$359 + $29|3 business days|
+|Emergency|$170|$259|$29|$429 + $29|24 hours|
+|Same-Day*|$170|$600|$29|$770 + $29|6 hours|
 ## 4. Fill out the order form.
   - [Click here](https://order.mychinavisa.com/OrderVisa3.php) to apply online for your China tourist visa and follow the steps to fill out the China Visa Service Center order form. You will receive payment and mailing instructions when completing the form. After submitting your order, the system will indicate where to mail your materials.
     - **Processing Time:** Choose selection based on step 3
