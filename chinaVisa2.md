@@ -24,30 +24,30 @@
     - *Same day processing is not available for work visa & non-US passports.
     - **Processing Time is only for the consultate.
   - **Shipping Type:** There are two shipping options: 
-    - Ship with CVSC shipping label:
-      - For easy, fast and reliable shipping, CVSC recommends that you use the enclosed FedEx shipping label to send your documents to their office. Go to a FedEx office near you and place your documents in a FedEx envelope, on to which you affix the enclosed shipping label. Your application will be sent to us by FedEx Overnight and can be easily tracked. The shipping cost is $29, or $38 if you are shipping from HI, AK or PR.
-    - Drop-off in person:
-      - China Visa Service Center - SF Office
-      - 1610 Post Street, Suite 303
-      - San Francisco, CA 94115
-      - Phone: (415) 292-5188
-      - Fax: (415) 292-5190
-      - Walk-in hours: 9:00am to 5:00pm PST
+    1. Ship with CVSC shipping label:
+      - For easy, fast and reliable shipping, CVSC recommends that you use the enclosed FedEx shipping label to send your documents to their office. Go to a FedEx office near you and place your documents in a FedEx envelope, on to which you affix the enclosed shipping label. Your application will be sent to us by FedEx Overnight and can be easily tracked. The shipping cost is $29 each way, or $38 each way if shipping from HI, AK or PR.
+    2. Drop-off in person:
+      - Find your [local CVSC center](http://www.mychinavisa.com/contact).
 
 |Order Type|Consular Fee|Service Fee|FedEx Fee (if req.)|Total Fee|Processing Time**|  
 |:----|:----|:----|:----|:----|:----|
 |Regular|$140|$99|$29 each way|$239 + $58|6+ business days|
 |Express|$140|$149|$29 each way|$289 + $58|4-6 business days|
-|Rush|$160|$199|$29 each way|$359 + $29 + $58|3 business days|
+|Rush|$160|$199|$29 each way|$359 + $58|3 business days|
 |Emergency|$170|$259|$29 each way|$429 + $58|24 hours|
 |Same-Day*|$170|$600|$29 each way|$770 + $58|6 hours|
 ## 4. Fill out the order form.
   - [Click here](https://order.mychinavisa.com/OrderVisa3.php) to apply online for your China tourist visa and follow the steps to fill out the China Visa Service Center order form. You will receive payment and mailing instructions when completing the form. After submitting your order, the system will indicate where to mail your materials.
-    - **Processing Time:** Choose selection based on step 3.
-    - **Options for Shipping to CVSC:** Choose selection based on step 3.
+    - **Step 3 - Applicants' Information:** For "Visa Requested", please choose "Multiple entry valid for 10 years". For "Visa Type", please choose "Business".
+    - **Step 4 - Processing Time:** Choose selection based on last step.
+    - **Step 6 - Options for Shipping to CVSC:** Choose selection based on last step.
+    - **Step 8 - Return Shipping Options:**
+      - Select "FedEx Overnight", if you'd like to receive your passport back via FedEx
+      - Select "Pick up in person", if you'd like to go pick up your passport from your [local CVSC center](http://www.mychinavisa.com/contact).
 ## Links:
   - [China Visa Application Form](http://www.mychinavisa.com/LiteratureRetrieve.aspx?ID=161424)
   - [Sample Pre-Filled China Visa Application Form](http://www.mychinavisa.com/LiteratureRetrieve.aspx?ID=171918)
   - [Passport Photo Requirements](http://www.mychinavisa.com/LiteratureRetrieve.aspx?ID=196509)
   - [Sample Business Letter of Invitation](http://www.mychinavisa.com/LiteratureRetrieve.aspx?ID=193471)
   - [China Visa Order Form](https://order.mychinavisa.com/OrderVisa3.php)
+  - [CVSC Centers](http://www.mychinavisa.com/contact)
