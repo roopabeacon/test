@@ -21,6 +21,8 @@
   - Here is a [Sample Business Invitation Letter](http://www.mychinavisa.com/LiteratureRetrieve.aspx?ID=193471) for your reference.
 ## 3. Determine order type and shipping.
   - Order Type: choose which type you will require. It is best to put in the application order 3 weeks prior to your trip.
+    *Same day processing is not available for work visa & non US passports.
+    **Processing Time is only for the consultate.
 
 |Order Type|Consular Fee|Service Fee|Total Fee|FedEx Fee (if req.)|Processing Time**|  
 |:----|:----|:----|:----|:----|:----|
@@ -29,7 +31,5 @@
 |Rush|$160|$199|$359|$29|3 business days|
 |Emergency|$170|$259|$429|$29|24 hours|
 |Same-Day*|$170|$600|$770|$29|6 hours|
-- *Same day processing is not available for work visa & non US passports. 
-- **Processing Time is only for the consultate.
 ## 4. Fill out the order form.
   - [Click here](https://order.mychinavisa.com/OrderVisa3.php) to apply online for your China tourist visa and follow the steps to fill out the China Visa Service Center order form. You will receive payment and mailing instructions when completing the form. After submitting your order, the system will indicate where to mail your materials.
