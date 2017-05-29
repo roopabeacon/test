@@ -22,14 +22,14 @@
 ## 3. Determine the processing time & shipping.
   - [Click here](https://order.mychinavisa.com/OrderVisa3.php) to apply online for your China tourist visa and follow the steps to fill out the China Visa Service Center order form. You will receive payment and mailing instructions when completing the form. After submitting your order, the system will indicate where to mail your materials.
     - *These costs are for US passports. For non-US passport and rates details, please [click here](http://www.mychinavisa.com/visa-rates).*
-    |Type|Consular Fee|Service Fee|Total Fee|FedEx Fee (if req.)|Processing Time**|  
-    |:----|:----|:----|:----|:----|:----|
-    |Regular|$140|$99|$239|$29|6+ business days|
-    |Express|$140|$149|$289|$29|4-6 business days|
-    |Rush|$160|$199|$359|$29|3 business days|
-    |Emergency|$170|$259|$429|$29|24 hours|
-    |Same-Day*|$170|$600|$770|$29|6 hours|
-    - *Same day processing is not available for work visa & non US passports. 
-    - **Processing Time is only for the consultate.
+|Type|Consular Fee|Service Fee|Total Fee|FedEx Fee (if req.)|Processing Time**|  
+|:----|:----|:----|:----|:----|:----|
+|Regular|$140|$99|$239|$29|6+ business days|
+|Express|$140|$149|$289|$29|4-6 business days|
+|Rush|$160|$199|$359|$29|3 business days|
+|Emergency|$170|$259|$429|$29|24 hours|
+|Same-Day*|$170|$600|$770|$29|6 hours|
+- *Same day processing is not available for work visa & non US passports. 
+**Processing Time is only for the consultate.
 ## 4. Fill out the order form.
   - [Click here](https://order.mychinavisa.com/OrderVisa3.php) to apply online for your China tourist visa and follow the steps to fill out the China Visa Service Center order form. You will receive payment and mailing instructions when completing the form. After submitting your order, the system will indicate where to mail your materials.
