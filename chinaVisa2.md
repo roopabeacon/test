@@ -21,8 +21,8 @@
   - Here is a [Sample Business Invitation Letter](http://www.mychinavisa.com/LiteratureRetrieve.aspx?ID=193471) for your reference.
 ## 3. Determine order type and shipping.
   - Order Type: choose which type you will require. It is best to put in the application order 3 weeks prior to your trip.
-    *Same day processing is not available for work visa & non US passports.
-    **Processing Time is only for the consultate.
+    - *Same day processing is not available for work visa & non US passports.
+    - **Processing Time is only for the consultate.
 
 |Order Type|Consular Fee|Service Fee|Total Fee|FedEx Fee (if req.)|Processing Time**|  
 |:----|:----|:----|:----|:----|:----|
